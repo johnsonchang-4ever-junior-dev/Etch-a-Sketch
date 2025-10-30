@@ -1,0 +1,9 @@
+
+
+
+/* make the container's position relative so you can set it from top 30 px */
+/* Treat all text in here as having no font size even the space” */
+
+
+/* by default : display: block;, Each <div> takes up the full width of its parent container a <div> with display: block still starts a new line each time. */
+/* Keep behaving like a block (respect width and height) but sit side by side with others, like text characters. so the block is not block that takes the whole line, it is treated as inline-block */
