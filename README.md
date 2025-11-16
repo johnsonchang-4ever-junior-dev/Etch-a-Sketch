@@ -8,7 +8,7 @@ The link to view the project: ''' https://johnsonchang-4ever-junior-dev.github.i
 
 ## What it does
 
-This web-based Etch-a-Sketch allows users to draw pixel art by hovering over a grid with their mouse. Users can:
+This web-based Etch-a-Sketch brings back childhood nostalgia. Draw pixel art by hovering over a grid with your mouse and relive the simple joy of creating. Users can:
 
 - **Draw by holding 'D'**: Press and hold the 'D' key while hovering over grid squares to draw
 - **Choose colors**: Use the color picker to select any color for drawing
